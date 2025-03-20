@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-2nd year PhD student at Imperial College London developing statistical learning methods!
+3nd year PhD student at Imperial College London developing statistical learning methods!
 
 <!--
 **eso28599/eso28599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
